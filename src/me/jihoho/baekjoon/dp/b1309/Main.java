@@ -1,4 +1,4 @@
-package me.jihoho.baekjoon.b1309;
+package me.jihoho.baekjoon.dp.b1309;
 
 import java.util.Scanner;
 
