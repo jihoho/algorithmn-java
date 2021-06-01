@@ -42,16 +42,6 @@ public class Main {
 
     }
 
-    static void dfsAll(int root) {
-        //    visited false 초기화;
-        visited = new boolean[n + 1];
-        // System.out.printf("root: %d ", root);
-        if (!visited[root]) {
-            dfs(root, 0);
-        }
-        // System.out.println("total max: " + totalMax);
-    }
-
     private static void dfs(int here, int max) {
         visited[here] = true;
         // System.out.printf("[visit : %d]", here);
