@@ -1,4 +1,4 @@
-package me.jihoho.baekjoon.bruteforce;
+package me.jihoho.baekjoon.bruteforce.p행렬_테두리_회전하기;
 
 import java.util.ArrayList;
 import java.util.List;
