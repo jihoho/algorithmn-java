@@ -1,4 +1,4 @@
-package me.jihoho.baekjoon.bruteforce.p다단계_칫솔_판매;
+package me.jihoho.baekjoon.recursion.p다단계_칫솔_판매;
 
 import java.util.HashMap;
 
