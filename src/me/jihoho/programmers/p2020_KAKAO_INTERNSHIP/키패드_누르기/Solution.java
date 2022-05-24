@@ -1,4 +1,4 @@
-package me.jihoho.programmers.p20202_KAKAO_INTERNSHIP.키패드_누르기;
+package me.jihoho.programmers.p2020_KAKAO_INTERNSHIP.키패드_누르기;
 
 /**
  * Created by IntelliJ IDEA
