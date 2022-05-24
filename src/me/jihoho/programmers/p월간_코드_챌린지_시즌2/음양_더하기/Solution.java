@@ -1,4 +1,4 @@
-package me.jihoho.baekjoon.p월간_코드_챌린지_시즌2.음양_더하기;
+package me.jihoho.programmers.p월간_코드_챌린지_시즌2.음양_더하기;
 
 /**
  * Created by IntelliJ IDEA

@@ -1,4 +1,4 @@
-package me.jihoho.baekjoon.p2021_KAKAO_BLIND_RECRUITMENT.메뉴_리뉴얼;
+package me.jihoho.programmers.p2021_KAKAO_BLIND_RECRUITMENT.메뉴_리뉴얼;
 
 import java.util.Arrays;
 import java.util.HashMap;

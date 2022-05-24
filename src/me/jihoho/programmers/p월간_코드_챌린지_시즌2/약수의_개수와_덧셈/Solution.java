@@ -1,4 +1,4 @@
-package me.jihoho.baekjoon.p월간_코드_챌린지_시즌2.약수의_개수와_덧셈;
+package me.jihoho.programmers.p월간_코드_챌린지_시즌2.약수의_개수와_덧셈;
 
 /**
  * Created by IntelliJ IDEA

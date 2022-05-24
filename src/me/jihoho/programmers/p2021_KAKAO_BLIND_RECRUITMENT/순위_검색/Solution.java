@@ -1,4 +1,4 @@
-package me.jihoho.baekjoon.p2021_KAKAO_BLIND_RECRUITMENT.순위_검색;
+package me.jihoho.programmers.p2021_KAKAO_BLIND_RECRUITMENT.순위_검색;
 
 import java.util.ArrayList;
 import java.util.Collections;

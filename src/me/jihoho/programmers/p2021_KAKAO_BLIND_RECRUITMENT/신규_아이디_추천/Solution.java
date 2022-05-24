@@ -1,4 +1,4 @@
-package me.jihoho.baekjoon.p2021_KAKAO_BLIND_RECRUITMENT.신규_아이디_추천;
+package me.jihoho.programmers.p2021_KAKAO_BLIND_RECRUITMENT.신규_아이디_추천;
 
 /**
  * Created by IntelliJ IDEA

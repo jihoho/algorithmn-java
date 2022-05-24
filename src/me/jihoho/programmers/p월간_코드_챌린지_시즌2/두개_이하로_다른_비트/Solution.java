@@ -1,4 +1,4 @@
-package me.jihoho.baekjoon.p월간_코드_챌린지_시즌2.두개_이하로_다른_비트;
+package me.jihoho.programmers.p월간_코드_챌린지_시즌2.두개_이하로_다른_비트;
 
 /**
  * Created by IntelliJ IDEA

@@ -1,4 +1,4 @@
-package me.jihoho.baekjoon.p월간_코드_챌린지_시즌2.괄호_회전하기;
+package me.jihoho.programmers.p월간_코드_챌린지_시즌2.괄호_회전하기;
 
 import java.util.Stack;
 
